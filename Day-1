@@ -1,6 +1,0 @@
-install-awscli
-install python3
-configure cli
-secrete-keys
-access-key
-create ec2-instance by using terraform code space
